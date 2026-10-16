@@ -46,3 +46,6 @@ docs/superpowers/
 
 # ── Nucleus MCP index (local tool state) ─────────────────────────────────────
 .nucleus/
+
+# local tooling build temp
+scripts/local/.build/
